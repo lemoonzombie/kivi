@@ -31,7 +31,7 @@ https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JdKxscs.png"group-title="Albania":http-user-agent="",AlbKanale Music TV
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pr4ixiA.png"group-title="Albania":http-user-agent="",Alpo TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wdEHRf.png"group-title="Albania":http-user-agent="",Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3ukD5t.png"group-title="Albania":http-user-agent="",CNA
 https://live1.mediadesk.al/cnatvlive.m3u8
@@ -1187,6 +1187,8 @@ https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jpvs4u3.png"group-title="Bosnia and Herzegovina":http-user-agent="",Federalna televizija (FTV)
 http://94.250.2.6:7374/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6FNL8Iv.png"group-title="Bosnia and Herzegovina":http-user-agent="",HBTV
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGhvR0l.png"group-title="Bosnia and Herzegovina":http-user-agent="",Kanal 6
 https://restreamer1.tnt.ba/hls/kanal6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xUOspBx.png"group-title="Bosnia and Herzegovina":http-user-agent="",Maria+Vision Medjugorje (720p)
@@ -12777,7 +12779,11 @@ https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
 http://87.238.211.217:2209/stream/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9wdEHRf.png"group-title="Serbia":http-user-agent="",Informer TV
 https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wdEHRf.png"group-title="Serbia":http-user-agent="",Informer TV
+https://edge-rs-01.maksnet.tv/informertv-secure/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HBPnUD5.png"group-title="Serbia":http-user-agent="",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HBPnUD5.png"group-title="Serbia":http-user-agent="",KurirTV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dua57HD.png"group-title="Serbia":http-user-agent="",Narodna TV (720p)
 https://edge8.pink.rs/narodnatv/index.m3u8
